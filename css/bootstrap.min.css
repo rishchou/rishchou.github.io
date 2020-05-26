@@ -124,23 +124,12 @@ h4,
 h5,
 h6 {
     margin-top: 0;
-<<<<<<< HEAD
-    margin-bottom: .5rem;
-<<<<<<< HEAD
-    text-align: center;
-    vertical-align: middle
-=======
     margin-bottom: .5rem
->>>>>>> parent of 30df780... Update index.html
-=======
->>>>>>> parent of 764b852... Update index.html
 }
 
 p {
     margin-top: 0;
-    margin-bottom: 1rem;
-    vertical-align: middle;
-    text-align: center
+    margin-bottom: 1rem
 }
 
 abbr[data-original-title],
